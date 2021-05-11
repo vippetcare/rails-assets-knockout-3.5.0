@@ -1,0 +1,32 @@
+{
+  "name": "rails-assets-knockout",
+  "downloads": null,
+  "version": "3.5.0",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Knockout makes it easier to create rich, responsive UIs with JavaScript",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://knockoutjs.com/",
+  "gem_uri": null,
+  "homepage_uri": "http://knockoutjs.com/",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://knockoutjs.com/",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
